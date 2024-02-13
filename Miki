@@ -1,0 +1,19 @@
+def print_flower():
+    flower = '''
+        @@@
+      @@@@@@@
+    @@@@@@@@@@@
+      @@@@@@@
+    @@@@@@@@@@@
+  @@@@@@@@@@@@@@@
+    @@@  @@@  @@@
+    '''
+    print(flower)
+
+def main():
+    print("Happy Valentine's Day!")
+    print("I Love You Baby")
+    print_flower()
+
+if __name__ == "__main__":
+    main()
